@@ -1,4 +1,4 @@
 spectrum
 ========
 
-spectrum is a tool coded in processing who transform rgb into xyz coordinate
+spectrum explode rgb pixel color into xyz coordinate — http://spectrum.dcfvg.com
