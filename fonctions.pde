@@ -2,7 +2,7 @@ import processing.pdf.*;
 void setpixels(int taille,int transparence,Boolean fromPict) {
 
 
-  stroke(255,255,255,50);
+  stroke(255,255,255,6);
   noFill();
 
   if(contBox){
